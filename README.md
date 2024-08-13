@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the **Road to Data Engineer Special Live**. The goal of this project is to create a pipeline from both CSV file data and streaming data to make the data suitable for calculating membership points, which can be used to create promotions or sales.
+This project is part of the **Road to Data Engineer Special Live**. The goal of this project is to create a pipeline from both batch data and streaming data to make the data suitable for calculating membership points, which can be used to create promotions or sales.
 
 ![project architect](hadoop.PNG)
 The diagram depicts a Hadoop system architecture designed for handling both batch and real-time data processing. It outlines two primary layers:
